@@ -1,0 +1,13 @@
+[
+  {
+    "name": ".editorconfig",
+    "description": "代码格式",
+    "path": "./.editorconfig"
+  },
+  {
+    "name": "LICENSE-MIT",
+    "alias": "LICENSE",
+    "description": "MIT开源协议",
+    "path": "./LICENSE-MIT"
+  }
+]
